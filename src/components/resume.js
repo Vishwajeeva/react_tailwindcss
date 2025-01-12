@@ -2,7 +2,7 @@ import AboutImg from '../assets/resume1.jpeg';
 
 export default function resume() {
     const config ={
-        link:'https://drive.google.com/file/d/1fSLcwfZ3my90-kyJqKaLGJaSZSUb93xa/view?usp=sharing'
+        link:'https://docs.google.com/document/d/1sksW8YlH3uRweaIvvEHDrUtdVxuPzOMe/edit?usp=sharing&ouid=117456025565975448553&rtpof=true&sd=true'
     }
     return (
         <section className="flex flex-col md:flex-row bg-secondary px-8 py-16 md:py-24 justify-center items-center "id='resume'>
